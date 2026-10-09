@@ -86,3 +86,4 @@ python bot.py
 | Adminga ariza kelmayapti | `ADMIN_IDS` to'g'ri va admin botga avval `/start` bosgan bo'lishi kerak |
 | Deploy xato beryapti | `PYTHON_VERSION=3.12.3` qo'yilganini tekshiring |
 # Onlayn-magazin-bot
+# Onlayn-magazin-bot
