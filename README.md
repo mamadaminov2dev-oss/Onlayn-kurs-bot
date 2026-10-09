@@ -87,3 +87,4 @@ python bot.py
 | Deploy xato beryapti | `PYTHON_VERSION=3.12.3` qo'yilganini tekshiring |
 # Onlayn-magazin-bot
 # Onlayn-magazin-bot
+# Onlayn-magazin-bot
