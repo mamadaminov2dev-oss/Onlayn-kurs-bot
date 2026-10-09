@@ -88,3 +88,4 @@ python bot.py
 # Onlayn-magazin-bot
 # Onlayn-magazin-bot
 # Onlayn-magazin-bot
+# Onlayn-magazin-bot2
