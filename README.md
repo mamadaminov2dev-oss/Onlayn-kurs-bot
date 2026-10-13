@@ -90,3 +90,4 @@ python bot.py
 # Onlayn-magazin-bot
 # Onlayn-magazin-bot2
 # Onlayn-kurs-bot
+# Onlayn-kurs-bot
